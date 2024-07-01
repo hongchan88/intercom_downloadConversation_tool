@@ -1,0 +1,27 @@
+{
+  "name": "intercom_tool",
+  "version": "1.0.0",
+  "description": "This tool will download all conversations from intercom. 150 conversations per file. export name will be output1.txt , output2.txt etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongchan88/intercom_downloadConversation_tool.git"
+  },
+  "keywords": [
+    "intercom",
+    "api",
+    "tool"
+  ],
+  "author": "Hong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongchan88/intercom_downloadConversation_tool/issues"
+  },
+  "homepage": "https://github.com/hongchan88/intercom_downloadConversation_tool#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
