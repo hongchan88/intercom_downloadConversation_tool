@@ -4,7 +4,8 @@
   "description": "This tool will download all conversations from intercom. 150 conversations per file. export name will be output1.txt , output2.txt etc",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
   },
   "repository": {
     "type": "git",
